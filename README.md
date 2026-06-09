@@ -133,7 +133,7 @@ Streamlit Interface
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/siddagovardhanreddy33/learning-path-generator.git
+git clone https://github.com/siddagovardhanreddy33/Learning_Path_Generator.git
 cd learning-path-generator
 ```
 
